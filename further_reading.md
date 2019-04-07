@@ -1,33 +1,32 @@
-Further reading
-===============
+# Further reading
 
 This is a non-exhaustive list of further reading on the topic of diversity.
 
-**Diversity in Open Source:**
+### Diversity in Open Source
 - [Sage Sharp - What makes a good community?][4]
 - [Ashe Dryden - The Ethics of Unpaid Labor and the OSS Community][7]
 - [Model View Culture - The Dehumanizing Myth of the Meritocracy][8]
 - [Annalee - How “Good Intent” Undermines Diversity and Inclusion][18]
 - [Karolina Szczur - Building Inclusive Communities][11]
 
-**Code of Conduct:**
+### Code of Conduct
 - [Valerie Aurora - Code of conduct training][14]
 - [Karolina Szczur - When a Code of Conduct becomes harmful][15]
 - [Ashe Dryden - Codes of Conduct 101 + FAQ][16]
 - [Phil Sturgeon - Codes of Conduct: Maybe They're Not So Bad?][17]
 
-**Inclusive language:**
+### Inclusive language
 - [Jenée Desmond-Harris - Why I’m finally convinced it's time to stop saying "you guys"][12]
 - [Baron Schwartz - You Guys][23]
 
-**Other talks and blog posts:**
+### Other talks and blog posts
 - [Lena Reinhard – A Talk About Nothing][1]
 - [Lena Reinhard - A Talk about Everything][2]
 - [Sage Sharp - SCALE: Improving Diversity with Maslow’s hierarchy][3]
 - [UCSF - Unconscious Bias][9]
 - [Responding to harassment reports][13]
 
-**Websites:**
+### Websites
 - [Better Allies][5]
 - [Geek Feminism WIKI][6]
 - [Open Source Diversity][19]
