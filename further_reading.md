@@ -34,6 +34,7 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 - [CHAOSS Metrics][21]
 - [Up for grabs][22]
 - [The developmental model of intercultural sensitivity (DMIS)][10]
+- [DiversifyTech][24]
 
 [1]: https://www.youtube.com/watch?v=D3e3V66TH2Y
 [2]: https://www.youtube.com/watch?v=CZx7rYoq1Uw
@@ -58,3 +59,4 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 [21]: https://chaoss.community/metrics/
 [22]: https://up-for-grabs.net/#/
 [23]: https://www.xaprb.com/blog/you-guys/
+[24]: https://www.diversifytech.co
