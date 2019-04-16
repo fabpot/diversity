@@ -8,7 +8,7 @@ Calendar with chat meeting dates are available in:
 * [ICS format][4]
 
 ### Upcomming meetings
-* [Sunday, 14th April 2019, 16:00 CET](meetings/2019-04-14.md)
+* [Thursday, 18th April 2019, 21:00 CET](meetings/2019-04-18.md)
 * [Thursday, 2nd May 2019, 20:00 CET](meetings/2019-05-02.md)
 
 ### Past meetings
