@@ -7,11 +7,11 @@ Calendar with chat meeting dates are available in:
 * [Google Calendar][3]
 * [ICS format][4]
 
-### Upcomming meetings
-* [Thursday, 18th April 2019, 21:00 CEST](meetings/2019-04-18.md)
+### Upcoming meetings
 * [Thursday, 2nd May 2019, 20:00 CEST](meetings/2019-05-02.md)
 
 ### Past meetings
+* [Thursday, 18th April 2019, 21:00 CEST](meetings/2019-04-18.md)
 * [Tuesday, 2nd April 2019, 15:00 CET](meetings/2019-04-02.md)
 * [Monday, 18th March 2019, 18:30 CET](meetings/2019-03-18.md)
 * [Thursday, 28th February 2019, 20:00 CET](meetings/2019-02-28.md)
