@@ -1,4 +1,4 @@
-# Further reading
+# Further reading / viewing
 
 This is a non-exhaustive list of further reading on the topic of diversity.
 
@@ -25,6 +25,7 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 - [Sage Sharp - SCALE: Improving Diversity with Maslow’s hierarchy][3]
 - [UCSF - Unconscious Bias][9]
 - [Responding to harassment reports][13]
+- [Unconscious bias at work][25]
 
 ### Websites
 - [Better Allies][5]
@@ -60,3 +61,4 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 [22]: https://up-for-grabs.net/#/
 [23]: https://www.xaprb.com/blog/you-guys/
 [24]: https://www.diversifytech.co
+[25]: https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/
