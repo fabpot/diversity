@@ -37,7 +37,7 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 - [Up for grabs][22]
 - [The developmental model of intercultural sensitivity (DMIS)][10]
 - [DiversifyTech][24]
-- [so-you-just-learned][26]
+- [so-you-just-learned][27]
 
 [1]: https://www.youtube.com/watch?v=D3e3V66TH2Y
 [2]: https://www.youtube.com/watch?v=CZx7rYoq1Uw
