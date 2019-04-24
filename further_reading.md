@@ -26,6 +26,7 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 - [UCSF - Unconscious Bias][9]
 - [Responding to harassment reports][13]
 - [Unconscious bias at work][25]
+- [CIS people declaring their pronouns][26]
 
 ### Websites
 - [Better Allies][5]
@@ -36,6 +37,7 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 - [Up for grabs][22]
 - [The developmental model of intercultural sensitivity (DMIS)][10]
 - [DiversifyTech][24]
+- [so-you-just-learned][26]
 
 [1]: https://www.youtube.com/watch?v=D3e3V66TH2Y
 [2]: https://www.youtube.com/watch?v=CZx7rYoq1Uw
@@ -62,3 +64,5 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 [23]: https://www.xaprb.com/blog/you-guys/
 [24]: https://www.diversifytech.co
 [25]: https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/
+[26]: https://medium.com/@mrsexsmith/dear-cis-people-who-put-your-pronouns-on-your-hello-my-name-is-nametags-78c047ed7af1
+[27]: https://github.com/sublimemarch/so-you-just-learned/blob/master/README.md
