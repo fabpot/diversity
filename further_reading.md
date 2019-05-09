@@ -38,6 +38,7 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 - [The developmental model of intercultural sensitivity (DMIS)][10]
 - [DiversifyTech][24]
 - [so-you-just-learned][27]
+- [The Post-Meritocracy Manifesto][28]
 
 [1]: https://www.youtube.com/watch?v=D3e3V66TH2Y
 [2]: https://www.youtube.com/watch?v=CZx7rYoq1Uw
@@ -66,3 +67,4 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 [25]: https://rework.withgoogle.com/guides/unbiasing-raise-awareness/steps/watch-unconscious-bias-at-work/
 [26]: https://medium.com/@mrsexsmith/dear-cis-people-who-put-your-pronouns-on-your-hello-my-name-is-nametags-78c047ed7af1
 [27]: https://github.com/sublimemarch/so-you-just-learned/blob/master/README.md
+[28]: https://postmeritocracy.org/
