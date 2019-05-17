@@ -18,6 +18,7 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 ### Inclusive language
 - [Jenée Desmond-Harris - Why I’m finally convinced it's time to stop saying "you guys"][12]
 - [Baron Schwartz - You Guys][23]
+- [inclusive language presentations][29]
 
 ### Other talks and blog posts
 - [Lena Reinhard – A Talk About Nothing][1]
@@ -68,3 +69,4 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 [26]: https://medium.com/@mrsexsmith/dear-cis-people-who-put-your-pronouns-on-your-hello-my-name-is-nametags-78c047ed7af1
 [27]: https://github.com/sublimemarch/so-you-just-learned/blob/master/README.md
 [28]: https://postmeritocracy.org/
+[29]: https://github.com/hcorona/diversity-inclusion/blob/master/inclusive-language-presentations.md
