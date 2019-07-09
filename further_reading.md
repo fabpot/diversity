@@ -29,6 +29,9 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 - [Unconscious bias at work][25]
 - [CIS people declaring their pronouns][26]
 
+### Books
+- [Emily Chang - Brotopia][30]
+
 ### Websites
 - [Better Allies][5]
 - [Geek Feminism WIKI][6]
@@ -70,3 +73,4 @@ This is a non-exhaustive list of further reading on the topic of diversity.
 [27]: https://github.com/sublimemarch/so-you-just-learned/blob/master/README.md
 [28]: https://postmeritocracy.org/
 [29]: https://github.com/hcorona/diversity-inclusion/blob/master/inclusive-language-presentations.md
+[30]: http://www.brotopiabook.com/
