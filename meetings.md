@@ -8,7 +8,6 @@ Calendar with chat meeting dates are available in:
 * [ICS format][4]
 
 ### Upcoming meetings
-* [Tuesday, July 23rd 2019, 20:00 EU/Paris time](meetings/2019-07-23.md)
 * [Wednesday, July 31st 2019, 10:00 EU/Paris time](meetings/2019-07-31.md)
 * [Saturday, August 17th 2019, 16:00 EU/Paris time](meetings/2019-08-17.md)
 * [Friday, August 30th 2019, 20:00 EU/Paris time](meetings/2019-08-30.md)
@@ -16,6 +15,7 @@ Calendar with chat meeting dates are available in:
 * [Thursday, September 26th 2019, 14:00 EU/Paris time](meetings/2019-09-26.md)
 
 ### Past meetings
+* [Tuesday, July 23rd 2019, 20:00 EU/Paris time](meetings/2019-07-23.md)
 * [Sunday, July 7th 2019, 16:00 EU/Paris time](meetings/2019-07-07.md)
 * [Thursday, 2nd May 2019, 20:00 CEST](meetings/2019-05-02.md)
 * [Thursday, 18th April 2019, 21:00 CEST](meetings/2019-04-18.md)
