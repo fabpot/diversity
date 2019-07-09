@@ -13,9 +13,9 @@ Calendar with chat meeting dates are available in:
 * [Friday, August 30th 2019, 20:00 EU/Paris time](meetings/2019-08-30.md)
 * [Monday, September 9th 2019, 11:00 EU/Paris time](meetings/2019-09-09.md)
 * [Thursday, September 26th 2019, 14:00 EU/Paris time](meetings/2019-09-26.md)
+* [Tuesday, July 23rd 2019, 20:00 EU/Paris time](meetings/2019-07-23.md)
 
 ### Past meetings
-* [Tuesday, July 23rd 2019, 20:00 EU/Paris time](meetings/2019-07-23.md)
 * [Sunday, July 7th 2019, 16:00 EU/Paris time](meetings/2019-07-07.md)
 * [Thursday, 2nd May 2019, 20:00 CEST](meetings/2019-05-02.md)
 * [Thursday, 18th April 2019, 21:00 CEST](meetings/2019-04-18.md)
