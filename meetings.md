@@ -8,9 +8,13 @@ Calendar with chat meeting dates are available in:
 * [ICS format][4]
 
 ### Upcoming meetings
-* [Thursday, September 26th 2019, 15:00 EU/Paris time](meetings/2019-09-26.md)
+* [Tuesday, October 22nd 2019, 21:30 EU/Paris time](meetings/2019-10-22.md)
+* [Friday, November 8th 2019, 21:30 EU/Paris time](meetings/2019-11-08.md)
+* [Saturday, November 23th 2019, SymfonyCon Hackathon](meetings/2019-11-23.md)
+* [Monday, December 2nd 2019, 20:00 EU/Paris time](meetings/2019-12-02.md)
 
 ### Past meetings
+* [Thursday, September 26th 2019, 15:00 EU/Paris time](meetings/2019-09-26.md)
 * [Monday, September 9th 2019, 11:00 EU/Paris time](meetings/2019-09-09.md)
 * [Friday, August 30th 2019, 20:00 EU/Paris time](meetings/2019-08-30.md)
 * [Saturday, August 17th 2019, 16:00 EU/Paris time](meetings/2019-08-17.md)
